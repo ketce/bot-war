@@ -27,11 +27,11 @@ global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312']
-global.premium = ['6281214281312']
-global.packname = 'HW MODS WA'
-global.ownerr = ['HW MODS WA']
-global.author = 'HW MODS WA'
+global.owner = ['6281327748566']
+global.premium = ['6281327748566']
+global.packname = 'nolimit'
+global.ownerr = ['Donyy']
+global.author = 'Tentu dony'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
